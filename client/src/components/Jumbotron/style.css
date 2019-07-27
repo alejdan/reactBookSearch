@@ -1,0 +1,10 @@
+.masthead {
+    height: 50vh;
+    min-height: 100px;
+    background-image: url('https://www.asuvictas.com.au/wp-content/uploads/2019/05/5e4c16eff01b41f394d08bb0e6b8ede5.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    font-weight: bold;
+  }
